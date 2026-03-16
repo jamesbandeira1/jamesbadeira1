@@ -5,5 +5,5 @@
 
 - ## 🛠️ Tecnologias em estudo
 
-style="display: inline_block"><br>
+<div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
