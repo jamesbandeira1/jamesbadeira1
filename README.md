@@ -8,5 +8,5 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div> 
 
-## 📫 Como me encontrar
+# 📫 Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:james.bandeira13@gmail.com) 
