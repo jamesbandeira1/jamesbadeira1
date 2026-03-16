@@ -4,5 +4,4 @@
 - 📫 contato: james.bandeira13@gmail.com
 
 - ## 🛠️ Tecnologias em estudo
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green)
