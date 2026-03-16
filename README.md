@@ -4,6 +4,5 @@
 - 📫 contato: james.bandeira13@gmail.com
 
 - ## 🛠️ Tecnologias em estudo
-<div style="display: inline_block"><br>
+yle="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
- 
